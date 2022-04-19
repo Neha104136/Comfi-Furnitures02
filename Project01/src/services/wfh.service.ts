@@ -15,7 +15,7 @@ export class wfhService {
 
   getAllwfh() : Observable<wfh[]>{
 
-    return this.httpClient.get<wfh[]>("http://localhost:3000/wfh",
+    return this.httpClient.get<wfh[]>("https://localhost:44397/Wfhs/GetAllProducts",
     {
       headers: {
 
