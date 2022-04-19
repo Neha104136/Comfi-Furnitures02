@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.product{
+  padding: 0 0 40px 0;
+  width: 100%;
+  margin: 0;
+}
+.pg{
+  margin: 0;
+  padding: 0;
+}
+.title{
+  background-image: url(../../assets/WFH-Essentials/bg-01.jpg);
+  font-family: 'Lobster', cursive;
+  letter-spacing: 5px;
+  margin: 0;
+  padding: 5px 0;
+  width: 100%;
+}
+.title h1{
+  color: #ffffff;
+  font-size: 80px;
+  margin: 0;
+  padding: 20px 0 0 0;
+  text-shadow: 3px 3px 3px #03030369;
+}
+.title p{
+  color: #ffffff;
+  font-size: 30px;
+  margin: 0;
+  padding: 5px 0 25px 0;
+}
+.part .heading{
+  padding: 30px 0 ;
+}
+.part .heading h2{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  padding: 10px;
+}
+.part .heading hr{
+  background-color: #005AA7;
+  height:3px;
+  margin: auto;
+  width: 15%;
+}
+.row{
+  padding: 20px 0;
+  width: 100%;
+
+}
+.row .box{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 0 0 30px 0;
+  padding: 20px;
+  width: 250px;
+
+}
+.product_image img{
+  height: 300px;
+  width: 200px;
+}
+.content h4{
+  font-weight: 600;
+  margin-top: 10px;
+  padding: 10px 0;
+}
+/*
+.content h6{
+  font-weight: 500;
+  margin-top: 0;
+}*/
+.btn{
+  border: 1px solid #005AA7;
+  border-radius: 4px;
+  background: #70b2ec;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 10px;
+  padding: 6px 18px;
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+.btn:hover {
+  background-color: transparent;
+  color:#005AA7;
+}

@@ -1,0 +1,27 @@
+<section class="product">
+  <div class="pg">
+    <div class="part">
+      <div class="heading text-center">
+        <h2>Furnitures</h2>
+        <hr>
+      </div>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-md-3" *ngFor="let prod of Furnitures">
+            <div class="box">
+              <div class="product_image">
+                <img src="{{prod.prodimg}}" alt="Decor">
+              </div>
+              <div class="content">
+                <h4>₹ {{prod.prodprice}}</h4>
+                <!--<h6>Product ID - {{prod.prodId}}</h6>-->
+              </div>
+              <button type="button" class="btn" (click)="addCart(prod)">Add To Cart</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

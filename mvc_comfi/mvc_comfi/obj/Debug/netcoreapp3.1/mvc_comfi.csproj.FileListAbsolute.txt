@@ -1,0 +1,875 @@
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.exe
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.deps.json
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.runtimeconfig.json
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.runtimeconfig.dev.json
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.pdb
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.Views.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.Views.pdb
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.AssemblyInfoInputs.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.AssemblyInfo.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.csproj.CoreCompileInputs.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.MvcApplicationPartsAssemblyInfo.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorAssemblyInfo.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorAssemblyInfo.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\staticwebassets\mvc_comfi.StaticWebAssets.Manifest.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\staticwebassets\mvc_comfi.StaticWebAssets.xml
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\scopedcss\bundle\mvc_comfi.styles.css
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.TagHelpers.input.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.TagHelpers.output.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorCoreGenerate.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorTargetAssemblyInfo.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorTargetAssemblyInfo.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.Views.pdb
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.csproj.CopyComplete
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.pdb
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.genruntimeconfig.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.csproj.AssemblyReference.cache
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Project1.Models.dll
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Project1.Models.pdb
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Create.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Delete.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Details.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Edit.cshtml.g.cs
+D:\MVC_CRUD\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Index.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.exe
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.deps.json
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.runtimeconfig.json
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.runtimeconfig.dev.json
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.pdb
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.Views.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\mvc_comfi.Views.pdb
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Project1.Models.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\bin\Debug\netcoreapp3.1\Project1.Models.pdb
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.csproj.AssemblyReference.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.AssemblyInfoInputs.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.AssemblyInfo.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.csproj.CoreCompileInputs.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.MvcApplicationPartsAssemblyInfo.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.MvcApplicationPartsAssemblyInfo.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorAssemblyInfo.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorAssemblyInfo.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\staticwebassets\mvc_comfi.StaticWebAssets.Manifest.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\staticwebassets\mvc_comfi.StaticWebAssets.xml
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\scopedcss\bundle\mvc_comfi.styles.css
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.TagHelpers.input.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.TagHelpers.output.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorCoreGenerate.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Create.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Delete.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Details.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Edit.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Index.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorTargetAssemblyInfo.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.RazorTargetAssemblyInfo.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.Views.pdb
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.csproj.CopyComplete
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.pdb
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\mvc_comfi.genruntimeconfig.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Decors\Create.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Decors\Delete.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Decors\Details.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Decors\Edit.cshtml.g.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\mvc_comfi\obj\Debug\netcoreapp3.1\Razor\Views\Decors\Index.cshtml.g.cs

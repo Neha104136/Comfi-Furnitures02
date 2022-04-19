@@ -1,0 +1,25 @@
+<nav class="navbar fixed-top navbar-expand-lg sticky-top navbar-light scrolling-navbar">
+  <div class="title">
+    <a class="navbar-brand mb-0 h1" routerLink="home">Comfi-Furnitures</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+      aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse justify-content" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link" routerLink="decor">Decor</a>
+      <a class="nav-item nav-link" routerLink="wfh">WFH Essentials</a>
+      <a class="nav-item nav-link" routerLink="furnitures">Furnitures</a>
+      <a class="nav-item nav-link" routerLink="feedback">Feedback</a>
+    </div>
+  </div>
+  <div class="right">
+    <div class="cart_icon" routerLink="cart">
+      <i class="fa fa-shopping-cart"></i>
+      <div class="cart_value">
+        {{cartItem}}
+      </div>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.heading{
+  padding: 10px;
+}
+.heading h2{
+  font-family: 'Lobster', cursive;
+  font-weight: 600;
+  font-size: 40px;
+  letter-spacing: 2px;
+  /* text-transform: uppercase; */
+}
+.c1{
+  margin: 0 50px;
+  padding: 10px 100px;
+}
+.form-group{
+  font-size: 18px;
+  padding: 10px;
+}
+.btn {
+  border: 1px solid;
+  border-radius: 4px;
+  background-color: #d3d3d3;
+  color: #000000;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 20px;
+  padding: 8px 22px;
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+.btn:hover {
+background:transparent;
+}

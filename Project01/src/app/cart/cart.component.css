@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.cart_section{
+  padding: 10px 0 50px 0;
+}
+.heading{
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
+.heading h2{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  padding: 10px;
+}
+.heading hr{
+  background-color: #005AA7;
+  height:3px;
+  margin: auto;
+  width: 10%;
+}
+img{
+  height: 180px;
+  padding: 5px;
+  width: 150px;
+}
+table {
+  border-collapse: collapse;
+  font-family: arial, sans-serif;
+  padding: 10px;
+  width: 100%;
+}
+td, th {
+  border: 2px solid #000000;
+  font-size: 20px;
+  padding: 15px;
+  text-align: center;
+}
+tr{
+  background-color: #dddddd;
+}
+.row{
+  margin: 5px;
+  padding: 10px;
+}
+.quan{
+  background-color: #dddddd;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  margin: 4px 4px;
+  padding: 5px;
+}
+.delete{
+  background-color: #dddddd;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  margin: 4px 4px;
+  padding: 5px;
+  transition: 0.4s;
+}
+.delete:hover{
+  color: #f44336;
+}
+.removeall{
+  border: 1px solid #a70000;
+  border-radius: 4px;
+  background-color: transparent;
+  color:#a70000;
+  cursor: pointer;
+  float: right;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 10px;
+  padding: 6px 18px;
+  transition: 0.4s;
+}
+.removeall:hover {
+  background-color: #f44336;
+  color: #ffffff;
+}
+.checkout {
+  border: 1px solid #005AA7;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #005AA7;
+  cursor: pointer;
+  float: left;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 20px;
+  padding: 6px 18px;
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+.checkout:hover {
+background: #70b2ec;
+color:#ffffff;
+}

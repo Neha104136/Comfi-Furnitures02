@@ -1,0 +1,38 @@
+.container{
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.row{
+  padding: 5px 0;
+}
+.heading{
+  padding: 20px;
+}
+.heading h2{
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.details{
+  background-color: #D3D3D3;
+  font-size: 20px;
+  margin: 15px 5px;
+  padding: 20px;
+}
+.placeorder {
+  border: 1px solid;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 20px;
+  padding: 8px 22px;
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+.placeorder:hover {
+background: #005AA7;
+color:#ffffff;
+}
+

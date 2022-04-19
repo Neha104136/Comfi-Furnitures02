@@ -1,0 +1,75 @@
+<div class="box">
+  <div class="slider">
+    <ngb-carousel *ngIf="images">
+      <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img [src]="images[0]" alt="first slide">
+        </div>
+      </ng-template>
+      <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img [src]="images[1]" alt="Second slide">
+        </div>
+      </ng-template>
+      <ng-template ngbSlide>
+        <div class="picsum-img-wrapper">
+          <img [src]="images[2]" alt="Third slide">
+        </div>
+      </ng-template>
+    </ngb-carousel>
+  </div>
+
+  <div class="container">
+    <div class="c1">
+      <h2>Explore our Furniture Range</h2>
+      <hr>
+      <div class="sym text-center">
+        <div class="row">
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-bed fa-4x" aria-hidden="true"></i></a>
+            <h3>Bed</h3>
+          </div>
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-columns fa-4x" aria-hidden="true"></i></a>
+            <h3>Wardrobe</h3>
+          </div>
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-lightbulb-o fa-4x" aria-hidden="true"></i></a>
+            <h3>Lamps</h3>
+          </div>
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-book fa-4x" aria-hidden="true"></i></a>
+            <h3>Book Shelves</h3>
+          </div>
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-gift fa-4x" aria-hidden="true"></i></a>
+            <h3>Decor</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-cubes fa-4x" aria-hidden="true"></i></a>
+            <h3>Shoe Racks</h3>
+          </div>
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-coffee fa-4x" aria-hidden="true"></i></a>
+            <h3>Coffee Table</h3>
+          </div>
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-laptop fa-4x" aria-hidden="true"></i></a>
+            <h3>TV Units</h3>
+          </div>
+          <div class="col-sm">
+            <a href="#"><i class="fa fa-bath fa-4x" aria-hidden="true"></i></a>
+            <h3>Bath Essentials</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div>
+
+  </div>
+</div>
+

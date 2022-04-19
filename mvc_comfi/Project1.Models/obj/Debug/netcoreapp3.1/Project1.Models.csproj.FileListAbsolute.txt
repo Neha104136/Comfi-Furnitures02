@@ -1,0 +1,20 @@
+D:\MVC_CRUD\mvc_comfi\Project1.Models\bin\Debug\netcoreapp3.1\Project1.Models.deps.json
+D:\MVC_CRUD\mvc_comfi\Project1.Models\bin\Debug\netcoreapp3.1\Project1.Models.dll
+D:\MVC_CRUD\mvc_comfi\Project1.Models\bin\Debug\netcoreapp3.1\Project1.Models.pdb
+D:\MVC_CRUD\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.csproj.AssemblyReference.cache
+D:\MVC_CRUD\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC_CRUD\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.AssemblyInfoInputs.cache
+D:\MVC_CRUD\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.AssemblyInfo.cs
+D:\MVC_CRUD\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.csproj.CoreCompileInputs.cache
+D:\MVC_CRUD\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.dll
+D:\MVC_CRUD\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.pdb
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\bin\Debug\netcoreapp3.1\Project1.Models.deps.json
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\bin\Debug\netcoreapp3.1\Project1.Models.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\bin\Debug\netcoreapp3.1\Project1.Models.pdb
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.csproj.AssemblyReference.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.AssemblyInfoInputs.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.AssemblyInfo.cs
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.csproj.CoreCompileInputs.cache
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.dll
+D:\Case Study 02\Comfi-Furnitures02\mvc_comfi\Project1.Models\obj\Debug\netcoreapp3.1\Project1.Models.pdb
