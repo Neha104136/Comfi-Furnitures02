@@ -1,0 +1,119 @@
+//decor
+CREATE TABLE decor(
+	prodid INTEGER PRIMARY KEY,
+	prodimg VARCHAR NOT NULL,
+	prodquantity INTEGER NOT NULL,
+	prodprice INTEGER NOT NULL
+);
+
+INSERT INTO decor
+VALUES 
+(10101, '..\assets\decor\c_01.jpg', 1, 2000),
+(10102, '..\assets\decor\c_02.jpg', 1, 500),
+(10103, '..\assets\decor\c_03.jpg', 1, 2999),
+(10104, '..\assets\decor\c_04.jpg', 1, 800),
+(10105, '..\assets\decor\c_05.jpg', 1, 600),
+(10106, '..\assets\decor\c_06.jpg', 1, 500),
+(10107, '..\assets\decor\v_01.jpg', 1, 2000),
+(10108, '..\assets\decor\v_02.jpg', 1, 1999),
+(10109, '..\assets\decor\v_03.jpg', 1, 2999),
+(10110, '..\assets\decor\v_04.jpg', 1, 800),
+(10111, '..\assets\decor\v_05.jpg', 1, 399),
+(10112, '..\assets\decor\v_06.jpg', 1, 500),
+(10113, '..\assets\decor\f_01.jpg', 1, 2000),
+(10114, '..\assets\decor\f_02.jpg', 1, 500),
+(10115, '..\assets\decor\f_03.jpg', 1, 2999),
+(10116, '..\assets\decor\f_04.jpg', 1, 800);
+
+select * from decor;
+
+//furnitures
+CREATE TABLE furnitures(
+	prodid INTEGER PRIMARY KEY,
+	prodimg VARCHAR NOT NULL,
+	prodquantity INTEGER NOT NULL,
+	prodprice INTEGER NOT NULL
+);
+
+INSERT INTO furnitures
+VALUES
+(10301, '..\assets\Furnitures\A1.jpg', 1, 2000),
+(10302, '..\assets\Furnitures\A2.jpg', 1, 500),
+(10303, '..\assets\Furnitures\A3.jpg', 1, 1299),
+(10304, '..\assets\Furnitures\A4.jpg', 1, 800),
+(10305, '..\assets\Furnitures\A5.jpg', 1, 2000),
+(10306, '..\assets\Furnitures\A6.jpg', 1, 1500),
+(10307, '..\assets\Furnitures\A7.jpg', 1, 2299),
+(10308, '..\assets\Furnitures\A8.jpg', 1, 1800),
+(10309, '..\assets\Furnitures\A9.jpg', 1, 1000),
+(103010, '..\assets\Furnitures\A10.jpg', 1, 1500);
+
+select * from furnitures
+
+
+//wfh
+CREATE TABLE wfh(
+	prodid INTEGER PRIMARY KEY,
+	prodimg VARCHAR NOT NULL,
+	prodquantity INTEGER NOT NULL,
+	prodprice INTEGER NOT NULL
+);
+
+INSERT INTO wfh
+VALUES
+(10201, '..\assets\WFH-Essentials\Table-01.jpg', 1, 2999),
+(10202, '..\assets\WFH-Essentials\Table-02.jpg', 1, 3999),
+(10203, '..\assets\WFH-Essentials\Table-03.jpg', 1, 1999),
+(10204, '..\assets\WFH-Essentials\Table-04.jpg', 1, 1499),
+(10205, '..\assets\WFH-Essentials\shelf-01.jpg', 1, 2000),
+(10206, '..\assets\WFH-Essentials\shelf-02.jpg', 1, 1500),
+(10207, '..\assets\WFH-Essentials\shelf-03.jpg', 1, 2299),
+(10208, '..\assets\WFH-Essentials\shelf-04.jpg', 1, 1800),
+(10209,'..\assets\WFH-Essentials\Chair-01.jpg', 1, 2999),
+(102010,'..\assets\WFH-Essentials\Chair-02.jpg', 1, 3999),
+(102011,'..\assets\WFH-Essentials\Chair-03.jpg', 1, 1999),
+(102012,'..\assets\WFH-Essentials\Chair-04.jpg', 1, 1499);
+
+select * from wfh
+
+//Feedback Form
+CREATE TABLE feedback(
+	id SERIAL PRIMARY KEY,
+	first_name VARCHAR NOT NULL,
+	last_name VARCHAR NOT NULL,
+	email VARCHAR NOT NULL,
+	suggestions VARCHAR NOT NULL
+);
+
+SELECT * FROM feedback;
+
+
+-------- NOT CREATED ----------
+
+//order table
+CREATE table order(
+	orderid SERIAL PRIMARY KEY,
+	customerid INTEGER FOREIGN KEY FROM 
+	prodid INTEGER NOT NULL,
+	prodquantity VARCHAR NOT NULL,
+	email VARCHAR NOT NULL,
+	suggestions VARCHAR NOT NULL
+);
+
+SELECT * FROM order;
+
+
+//checkout form
+CREATE TABLE customer(
+	customerid SERIAL PRIMARY KEY,
+	first_name VARCHAR NOT NULL,
+	last_name VARCHAR NOT NULL,
+	mobile_no INTEGER NOT NULL,
+	email VARCHAR NOT NULL,
+	add1 VARCHAR NOT NULL,
+	add2 VARCHAR NOT NULL,
+	city VARCHAR NOT NULL,
+	pincode INTEGER NOT NULL
+);
+
+SELECT * FROM customer
