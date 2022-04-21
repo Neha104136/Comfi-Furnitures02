@@ -26,10 +26,14 @@ namespace mvc_comfi
         {
             services.AddControllersWithViews();
             services.AddDbContext<comfifurnituresContext>();
-
+            services.AddControllers();
             services.AddCors(options =>
             {
-                options.AddDefaultPolicy(policy => policy.AllowAnyOrigin());
+                options.AddDefaultPolicy(policy => 
+                { policy.AllowAnyOrigin();
+                    policy.AllowAnyHeader();
+                    policy.AllowAnyMethod();
+                } );
             });
         }
 
@@ -50,9 +54,8 @@ namespace mvc_comfi
             app.UseStaticFiles();
 
             app.UseRouting();
-            app.UseCors(builder => builder.AllowAnyMethod()
-                                         .AllowAnyOrigin()
-                                         .AllowAnyHeader());
+            app.UseCors();
+            
 
             app.UseAuthorization();
 

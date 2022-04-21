@@ -9,7 +9,7 @@ import { Observable } from 'rxjs';
 export class FeedbackService {
 
   private data : feedback[] = [
-    {first_name:"abc",last_name:"xyz",email:"abc@gmail.com",suggestions:"Awesome products"}
+    {FirstName:"abc",LastName:"xyz",Email:"abc@gmail.com",Suggestions:"Awesome products"}
   ];
 
   constructor(private httpClient: HttpClient) { }
@@ -20,8 +20,12 @@ export class FeedbackService {
   addCustomer(feedback : feedback):void{
     this.data.push(feedback);
   }
+
+
+
   submitUser(user:any){
-    return this.httpClient.post("http://localhost:3000/feedback",user,
+    console.log(user);
+    return this.httpClient.post("https://localhost:44397/api/Feedbacks1",user,
     {
 
      headers:{

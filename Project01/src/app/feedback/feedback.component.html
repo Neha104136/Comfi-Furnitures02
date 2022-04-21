@@ -4,37 +4,37 @@
     <hr>
   </div>
     <div class="c1">
-      <form #contact="ngForm" (ngSubmit)="onSubmit(contact.value)">
+      <form #feedback="ngForm" (ngSubmit)="onSubmit(feedback.value)">
         <div class="form-group">
           <label for="firstname" class="form-label">First Name</label><br>
-          <input type="text" required #first_name="ngModel" class="form-control"
-            placeholder="Enter your First Name here!" name="first_name" ngModel />
-          <span *ngIf="first_name.invalid && first_name.touched">This is required</span>
+          <input type="text" required #FirstName="ngModel" class="form-control"
+            placeholder="Enter your First Name here!" name="FirstName" ngModel />
+          <span *ngIf="FirstName.invalid && FirstName.touched">This is required</span>
         </div>
         <div class="form-group">
           <label for="lastname" class="form-label">Last Name</label><br>
-          <input type="text" required #last_name="ngModel" class="form-control"
-            placeholder="Enter your Last Name here!" name="last_name" ngModel />
-          <span *ngIf="last_name.invalid && last_name.touched">This is required</span>
+          <input type="text" required #LastName="ngModel" class="form-control"
+            placeholder="Enter your Last Name here!" name="LastName" ngModel />
+          <span *ngIf="LastName.invalid && LastName.touched">This is required</span>
         </div>
 
         <div class="form-group">
           <label for="emailaddress" class="form-label">Email address</label><br>
-          <input type="email" required #email="ngModel" class="form-control" id="emailaddress"
-            placeholder="Eg. name@example.com" name="email" ngModel />
-          <span *ngIf="email.invalid && email.touched">This is required</span>
+          <input type="email" required #Email="ngModel" class="form-control" id="emailaddress"
+            placeholder="Eg. name@example.com" name="Email" ngModel />
+          <span *ngIf="Email.invalid && Email.touched">This is required</span>
         </div>
 
         <div class="form-group">
           <label for="feedback" class="form-label">Any Suggestions or feedback</label><br>
-          <textarea #suggestions="ngModel" class="form-control" rows="3" placeholder="Enter Your Feedback..."
-            name="suggestions" ngModel required></textarea>
-          <span *ngIf="suggestions.invalid && suggestions.touched">This is required</span>
+          <textarea #Suggestions="ngModel" class="form-control" rows="3" placeholder="Enter Your Feedback..."
+            name="Suggestions" ngModel required></textarea>
+          <span *ngIf="Suggestions.invalid && Suggestions.touched">This is required</span>
         </div>
 
         <div class="form-group">
           <button class="btn" type="submit" >Submit feedback</button>
-          <!-- <button class="btn" type="reset">Clear Form</button> -->
+          <button class="btn" type="reset">Clear Form</button>
         </div>
       </form>
     </div>

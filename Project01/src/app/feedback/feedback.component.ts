@@ -17,8 +17,8 @@ export class FeedbackComponent {
 
   feedbackForm = this.formBuilder.group({
     id: [''],
-    fname: [''],
-    lname: [''],
+    first_name: [''],
+    last_name: [''],
     email: [''],
     suggestions: ['']
 
@@ -33,6 +33,7 @@ export class FeedbackComponent {
 
 
   onSubmit(data:any) {
+    console.log(data);
     this.FeedbackService.submitUser(data).subscribe(result=>{});
     alert('!!Feedback Submitted Successfully!!');
  }
