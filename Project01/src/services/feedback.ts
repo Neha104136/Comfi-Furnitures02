@@ -2,6 +2,7 @@ import { EmailValidator } from "@angular/forms";
 
 export class feedback
 {
+  [x: string]: any;
 
   FirstName: string;
   LastName: string;

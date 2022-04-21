@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
+.alert{
+  padding: 10px 20px;
+}
+.alert button{
+  background-color: transparent;
+  border: none;
+  float: right;
+}
 .heading{
   padding: 10px;
 }

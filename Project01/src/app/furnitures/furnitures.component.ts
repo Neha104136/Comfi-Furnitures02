@@ -58,7 +58,7 @@ export class FurnituresComponent implements OnInit {
       }
     }
     this.cartNumberFunc();
-    //alert('Your product has been added to the cart!');
+    alert('Your product has been added to the cart!');
   }
 
   cartNumber:number = 0;
