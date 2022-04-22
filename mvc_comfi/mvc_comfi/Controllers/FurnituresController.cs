@@ -33,8 +33,8 @@ namespace mvc_comfi.Controllers
                                  prodquantity = product.Prodquantity,
                                  prodprice = product.Prodprice
                              };
-            Response.Headers.Add(new KeyValuePair<string, Microsoft.Extensions.Primitives.StringValues>("Access-Control-Allow-Origin", "*"));
-            Response.Headers.Add(new KeyValuePair<string, Microsoft.Extensions.Primitives.StringValues>("Access-Control-Allow-Headers", "Origin,X-Requested-With,Content-Type,Accept,Authorization"));
+            //Response.Headers.Add(new KeyValuePair<string, Microsoft.Extensions.Primitives.StringValues>("Access-Control-Allow-Origin", "*"));
+            //Response.Headers.Add(new KeyValuePair<string, Microsoft.Extensions.Primitives.StringValues>("Access-Control-Allow-Headers", "Origin,X-Requested-With,Content-Type,Accept,Authorization"));
             return Json(Furnitures.ToList());
         }
 

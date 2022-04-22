@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc_comfi", "mvc_comfi\mvc_comfi.csproj", "{2CC88A57-E375-4E37-ABE1-DC79F068F8D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mvc_comfi", "mvc_comfi\mvc_comfi.csproj", "{2CC88A57-E375-4E37-ABE1-DC79F068F8D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1.Models", "Project1.Models\Project1.Models.csproj", "{2AE5EDAC-031A-49CD-97E1-205B1EC83D39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project1.Models", "Project1.Models\Project1.Models.csproj", "{2AE5EDAC-031A-49CD-97E1-205B1EC83D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc_comfi.Tests", "mvc_comfi.Tests\mvc_comfi.Tests.csproj", "{607975D6-193E-4113-9A69-4A451441C187}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2AE5EDAC-031A-49CD-97E1-205B1EC83D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE5EDAC-031A-49CD-97E1-205B1EC83D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE5EDAC-031A-49CD-97E1-205B1EC83D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607975D6-193E-4113-9A69-4A451441C187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607975D6-193E-4113-9A69-4A451441C187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607975D6-193E-4113-9A69-4A451441C187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607975D6-193E-4113-9A69-4A451441C187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

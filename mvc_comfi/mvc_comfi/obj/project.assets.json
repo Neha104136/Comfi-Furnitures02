@@ -7073,24 +7073,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\neha104136\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Navnath15416\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mastek\\Case Study2\\Comfi-Furnitures02\\mvc_comfi\\mvc_comfi\\mvc_comfi.csproj",
+      "projectUniqueName": "D:\\Navnath02\\Comfi-Furnitures02\\mvc_comfi\\mvc_comfi\\mvc_comfi.csproj",
       "projectName": "mvc_comfi",
-      "projectPath": "D:\\Mastek\\Case Study2\\Comfi-Furnitures02\\mvc_comfi\\mvc_comfi\\mvc_comfi.csproj",
-      "packagesPath": "C:\\Users\\neha104136\\.nuget\\packages\\",
-      "outputPath": "D:\\Mastek\\Case Study2\\Comfi-Furnitures02\\mvc_comfi\\mvc_comfi\\obj\\",
+      "projectPath": "D:\\Navnath02\\Comfi-Furnitures02\\mvc_comfi\\mvc_comfi\\mvc_comfi.csproj",
+      "packagesPath": "C:\\Users\\Navnath15416\\.nuget\\packages\\",
+      "outputPath": "D:\\Navnath02\\Comfi-Furnitures02\\mvc_comfi\\mvc_comfi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\neha104136\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Navnath15416\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7104,8 +7099,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Mastek\\Case Study2\\Comfi-Furnitures02\\mvc_comfi\\Project1.Models\\Project1.Models.csproj": {
-              "projectPath": "D:\\Mastek\\Case Study2\\Comfi-Furnitures02\\mvc_comfi\\Project1.Models\\Project1.Models.csproj"
+            "D:\\Navnath02\\Comfi-Furnitures02\\mvc_comfi\\Project1.Models\\Project1.Models.csproj": {
+              "projectPath": "D:\\Navnath02\\Comfi-Furnitures02\\mvc_comfi\\Project1.Models\\Project1.Models.csproj"
             }
           }
         }

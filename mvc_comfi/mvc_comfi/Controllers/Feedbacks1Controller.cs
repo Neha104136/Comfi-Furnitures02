@@ -14,13 +14,14 @@ namespace mvc_comfi.Controllers
     [ApiController]
     public class Feedbacks1Controller : ControllerBase
     {
-        private readonly comfifurnituresContext _context;
+        private  comfifurnituresContext _context;
 
         public Feedbacks1Controller(comfifurnituresContext context)
         {
             _context = context;
         }
 
+        
         // GET: api/Feedbacks1
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Feedback>>> GetFeedbacks()
@@ -81,7 +82,7 @@ namespace mvc_comfi.Controllers
         // POST: api/Feedbacks1
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
-        [HttpPost]
+        //[HttpPost]
         public async Task<ActionResult<Feedback>> PostFeedback(Feedback feedback)
         {
             _context.Feedbacks.Add(feedback);
@@ -90,6 +91,25 @@ namespace mvc_comfi.Controllers
             Response.Headers.Add(new KeyValuePair<string, Microsoft.Extensions.Primitives.StringValues>("Access-Control-Allow-Headers", "Origin,X-Requested-With,Content-Type,Accept,Authorization"));
             return CreatedAtAction("GetFeedback", new { id = feedback.Id }, feedback);
         }
+
+        //[HttpPost]
+        //public IActionResult Register(Feedback feedback)
+        //{
+        //    var register = new Feedback();
+        //    register.FirstName = feedback.FirstName;
+        //    register.LastName = feedback.LastName;
+
+        //    register.Email = feedback.Email;
+        //    register.Suggestions = feedback.Suggestions;
+
+
+
+
+
+        //    _context.Feedbacks.Add(register);
+        //    _context.SaveChanges();
+        //    return Ok();
+        //}
 
         // DELETE: api/Feedbacks1/5
         [HttpDelete("{id}")]
